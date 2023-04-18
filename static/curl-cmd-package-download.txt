@@ -1,0 +1,10 @@
+# from the DS, use this curl or wget command to download the UF package
+# 29th march 2023 wednesday
+# inventsekar
+
+
+
+# curl -L -o splunkforwarder-9.0.4-de405f4a7979-x64-release.msi 
+
+
+# wget -O splunkforwarder-9.0.4-de405f4a7979-x64-release.msi "https://download.splunk.com/products/universalforwarder/releases/9.0.4/windows/splunkforwarder-9.0.4-de405f4a7979-x64-release.msi"
